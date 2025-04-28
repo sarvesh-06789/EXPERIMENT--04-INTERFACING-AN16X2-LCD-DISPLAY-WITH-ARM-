@@ -1,6 +1,6 @@
 # EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM AND DISPLAY STRING
-## NAME : Rhudhra phriyamvadha K S
-## REG.NO : 212224040275
+## NAME : SHARVESHWARAN M
+## REG.NO : 212224240150
 ## DATE : 15.04.2025
 
 ## Aim: To Interface a 16X2 LCD display to ARM controller  , and simulate it in Proteus 
